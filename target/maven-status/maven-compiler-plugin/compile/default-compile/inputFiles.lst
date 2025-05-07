@@ -1,0 +1,10 @@
+/home/daksh/Desktop/spring-bits/project/src/main/java/com/example/studentcoursemanagement/controller/StudentController.java
+/home/daksh/Desktop/spring-bits/project/src/main/java/com/example/studentcoursemanagement/model/Student.java
+/home/daksh/Desktop/spring-bits/project/src/main/java/com/example/studentcoursemanagement/config/DataInitializer.java
+/home/daksh/Desktop/spring-bits/project/src/main/java/com/example/studentcoursemanagement/repository/StudentRepository.java
+/home/daksh/Desktop/spring-bits/project/src/main/java/com/example/studentcoursemanagement/service/StudentService.java
+/home/daksh/Desktop/spring-bits/project/src/main/java/com/example/studentcoursemanagement/StudentCourseManagementApplication.java
+/home/daksh/Desktop/spring-bits/project/src/main/java/com/example/studentcoursemanagement/model/Course.java
+/home/daksh/Desktop/spring-bits/project/src/main/java/com/example/studentcoursemanagement/repository/CourseRepository.java
+/home/daksh/Desktop/spring-bits/project/src/main/java/com/example/studentcoursemanagement/controller/CourseController.java
+/home/daksh/Desktop/spring-bits/project/src/main/java/com/example/studentcoursemanagement/service/CourseService.java
